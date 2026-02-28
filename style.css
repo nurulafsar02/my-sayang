@@ -32,7 +32,9 @@ body {
     animation: pulse 1.5s infinite;
     cursor: pointer;
 }
-
+#page{
+    position: 100%;
+}
 #letter-container{
     display: none;
     position: 100px;
